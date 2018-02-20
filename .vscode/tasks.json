@@ -18,7 +18,7 @@
 		{
 			"label": "build",
 			"type": "shell",
-			"command": ".\\gradlew.bat build",
+			"command": "./gradlew build",
 			"group": {
 				"kind": "build",
 				"isDefault": true
@@ -27,7 +27,7 @@
 		{
 			"label": "run",
 			"type": "shell",
-			"command": ".\\gradlew.bat run"
+			"command": "./gradlew run"
 		}
 	]
 }

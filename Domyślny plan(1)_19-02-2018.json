@@ -1,380 +1,538 @@
 {
 	"daysOff": [],
-	"lessons": [{
-		"color": -1739917,
-		"exams": [],
-		"grades": [],
-		"lessonDetails": [{
-			"date": null,
-			"day": 1,
-			"hourEnd": 645,
-			"hourStart": 555,
-			"place": "224 A-2",
-			"teacher": {
-				"consultations": "",
-				"email": "",
-				"imageName": null,
-				"name": "dr inż. Grzegorz Bazydło",
-				"phone": "",
-				"room": ""
+	"lessons": [
+		{
+			"color": 16123135,
+			"exams": [],
+			"grades": [],
+			"name": "Architektura komputerów II",
+			"lessonDetails": [
+				{
+					"date": null,
+					"day": 1,
+					"hourStart": 555,
+					"hourEnd": 645,
+					"place": "224 A-2",
+					"week": 0,
+					"teacher": {
+						"consultations": "",
+						"email": "",
+						"imageName": null,
+						"name": "dr inż. Grzegorz Bazydło",
+						"phone": "",
+						"room": ""
+					}
+				}
+			],
+			"lessonType": {
+				"name": "Architektura komputerów II"
 			},
-			"week": 0
-		}],
-		"lessonType": {
-			"name": "Architektura komputerów II"
+			"unprepared": []
 		},
-		"name": "Architektura komputerów II",
-		"unprepared": []
-	}, {
-		"color": -8978685,
-		"exams": [],
-		"grades": [],
-		"lessonDetails": [{
-			"date": null,
-			"day": 1,
-			"hourEnd": 890,
-			"hourStart": 800,
-			"place": "115 A-2",
-			"teacher": {
-				"consultations": "",
-				"email": "",
-				"imageName": null,
-				"name": "dr inż. Paweł Majdzik",
-				"phone": "",
-				"room": ""
+		{
+			"color": 16123135,
+			"exams": [],
+			"grades": [],
+			"name": "Architektura komputerów II",
+			"lessonDetails": [
+				{
+					"date": null,
+					"day": 1,
+					"hourStart": 675,
+					"hourEnd": 765,
+					"place": "224 A-2",
+					"week": 0,
+					"teacher": {
+						"consultations": "",
+						"email": "",
+						"imageName": null,
+						"name": "dr inż. GrzegorzBazydło",
+						"phone": "",
+						"room": ""
+					}
+				}
+			],
+			"lessonType": {
+				"name": "Architektura komputerów II"
 			},
-			"week": 0
-		}],
-		"lessonType": {
-			"name": "Programowanie obiektowe"
+			"unprepared": []
 		},
-		"name": "Programowanie obiektowe",
-		"unprepared": []
-	}, {
-		"color": -3808859,
-		"exams": [],
-		"grades": [],
-		"lessonDetails": [{
-			"date": null,
-			"day": 1,
-			"hourEnd": 1000,
-			"hourStart": 915,
-			"place": "115 A-2",
-			"teacher": {
-				"consultations": "",
-				"email": "",
-				"imageName": null,
-				"name": "dr hab. inż. Ryszard Rybski, prof. UZ",
-				"phone": "",
-				"room": ""
+		{
+			"color": 9555199,
+			"exams": [],
+			"grades": [],
+			"name": "Programowanie obiektowe",
+			"lessonDetails": [
+				{
+					"date": null,
+					"day": 1,
+					"hourStart": 800,
+					"hourEnd": 890,
+					"place": "115 A-2",
+					"week": 0,
+					"teacher": {
+						"consultations": "",
+						"email": "",
+						"imageName": null,
+						"name": "dr inż. Paweł Majdzik",
+						"phone": "",
+						"room": ""
+					}
+				}
+			],
+			"lessonType": {
+				"name": "Programowanie obiektowe"
 			},
-			"week": 0
-		}],
-		"lessonType": {
-			"name": "Technika eksperymentu II"
+			"unprepared": []
 		},
-		"name": "Technika eksperymentu II",
-		"unprepared": []
-	}, {
-		"color": -6381922,
-		"exams": [],
-		"grades": [],
-		"lessonDetails": [{
-			"date": null,
-			"day": 2,
-			"hourEnd": 660,
-			"hourStart": 570,
-			"place": "115 A-2",
-			"teacher": {
-				"consultations": "",
-				"email": "",
-				"imageName": null,
-				"name": "dr inż. Michał Doligalski",
-				"phone": "",
-				"room": ""
+		{
+			"color": 16170239,
+			"exams": [],
+			"grades": [],
+			"name": "Technika eksperymentu II",
+			"lessonDetails": [
+				{
+					"date": null,
+					"day": 1,
+					"hourStart": 915,
+					"hourEnd": 1000,
+					"place": "115 A-2",
+					"week": 0,
+					"teacher": {
+						"consultations": "",
+						"email": "",
+						"imageName": null,
+						"name": "dr hab. inż. Ryszard Rybski, prof. UZ",
+						"phone": "",
+						"room": ""
+					}
+				}
+			],
+			"lessonType": {
+				"name": "Technika eksperymentu II"
 			},
-			"week": 0
-		}],
-		"lessonType": {
-			"name": "Układy cyfrowe"
+			"unprepared": []
 		},
-		"name": "Układy cyfrowe",
-		"unprepared": []
-	}, {
-		"color": -16537100,
-		"exams": [],
-		"grades": [],
-		"lessonDetails": [{
-			"date": null,
-			"day": 2,
-			"hourEnd": 765,
-			"hourStart": 675,
-			"place": "108 A-2",
-			"teacher": {
-				"consultations": "",
-				"email": "",
-				"imageName": null,
-				"name": "dr hab. inż. Andrzej Janczak, prof. UZ",
-				"phone": "",
-				"room": ""
+		{
+			"color": 11812863,
+			"exams": [],
+			"grades": [],
+			"name": "Układy cyfrowe",
+			"lessonDetails": [
+				{
+					"date": null,
+					"day": 2,
+					"hourStart": 570,
+					"hourEnd": 660,
+					"place": "115 A-2",
+					"week": 0,
+					"teacher": {
+						"consultations": "",
+						"email": "",
+						"imageName": null,
+						"name": "dr inż. Michał Doligalski",
+						"phone": "",
+						"room": ""
+					}
+				}
+			],
+			"lessonType": {
+				"name": "Układy cyfrowe"
 			},
-			"week": 0
-		}],
-		"lessonType": {
-			"name": "Metody probabilistyczne"
+			"unprepared": []
 		},
-		"name": "Metody probabilistyczne",
-		"unprepared": []
-	}, {
-		"color": -3722,
-		"exams": [],
-		"grades": [],
-		"lessonDetails": [{
-			"date": null,
-			"day": 2,
-			"hourEnd": 885,
-			"hourStart": 795,
-			"place": "106 A-2",
-			"teacher": {
-				"consultations": "",
-				"email": "",
-				"imageName": null,
-				"name": "prof. dr hab. Roman Gielerak",
-				"phone": "",
-				"room": ""
+		{
+			"color": 10028287,
+			"exams": [],
+			"grades": [],
+			"name": "Metody probabilistyczne",
+			"lessonDetails": [
+				{
+					"date": null,
+					"day": 2,
+					"hourStart": 675,
+					"hourEnd": 765,
+					"place": "108 A-2",
+					"week": 0,
+					"teacher": {
+						"consultations": "",
+						"email": "",
+						"imageName": null,
+						"name": "dr hab. inż. Andrzej Janczak, prof. UZ",
+						"phone": "",
+						"room": ""
+					}
+				}
+			],
+			"lessonType": {
+				"name": "Metody probabilistyczne"
 			},
-			"week": 0
-		}],
-		"lessonType": {
-			"name": "Podstawy systemów dyskretnych"
+			"unprepared": []
 		},
-		"name": "Podstawy systemów dyskretnych",
-		"unprepared": []
-	}, {
-		"color": -3722,
-		"exams": [],
-		"grades": [],
-		"lessonDetails": [{
-			"date": null,
-			"day": 3,
-			"hourEnd": 735,
-			"hourStart": 600,
-			"place": "517 A-2",
-			"teacher": {
-				"consultations": "",
-				"email": "",
-				"imageName": null,
-				"name": "dr inż. Sergiusz Sienkowski",
-				"phone": "",
-				"room": ""
+		{
+			"color": 11628543,
+			"exams": [],
+			"grades": [],
+			"name": "Podstawy systemów dyskretnych",
+			"lessonDetails": [
+				{
+					"date": null,
+					"day": 2,
+					"hourStart": 795,
+					"hourEnd": 885,
+					"place": "106 A-2",
+					"week": 0,
+					"teacher": {
+						"consultations": "",
+						"email": "",
+						"imageName": null,
+						"name": "prof. dr hab. Roman Gielerak",
+						"phone": "",
+						"room": ""
+					}
+				}
+			],
+			"lessonType": {
+				"name": "Podstawy systemów dyskretnych"
 			},
-			"week": 0
-		}],
-		"lessonType": {
-			"name": "Technika eksperymentu II"
+			"unprepared": []
 		},
-		"name": "Technika eksperymentu II",
-		"unprepared": []
-	}, {
-		"color": -3722,
-		"exams": [],
-		"grades": [],
-		"lessonDetails": [{
-			"date": null,
-			"day": 3,
-			"hourEnd": 880,
-			"hourStart": 795,
-			"place": "106 A-29",
-			"teacher": {
-				"consultations": "",
-				"email": "",
-				"imageName": null,
-				"name": "dr inż. Grzegorz Łabiak",
-				"phone": "",
-				"room": ""
+		{
+			"color": 16170239,
+			"exams": [],
+			"grades": [],
+			"name": "Technika eksperymentu II",
+			"lessonDetails": [
+				{
+					"date": null,
+					"day": 3,
+					"hourStart": 600,
+					"hourEnd": 735,
+					"place": "517 A-2",
+					"week": 0,
+					"teacher": {
+						"consultations": "",
+						"email": "",
+						"imageName": null,
+						"name": "dr inż. Sergiusz Sienkowski",
+						"phone": "",
+						"room": ""
+					}
+				}
+			],
+			"lessonType": {
+				"name": "Technika eksperymentu II"
 			},
-			"week": 1
-		}],
-		"lessonType": {
-			"name": "Architektura komputerów II"
+			"unprepared": []
 		},
-		"name": "Architektura komputerów II",
-		"unprepared": []
-	}, {
-		"color": -8708190,
-		"exams": [],
-		"grades": [],
-		"lessonDetails": [{
-			"date": null,
-			"day": 3,
-			"hourEnd": 890,
-			"hourStart": 795,
-			"place": "106 A-29",
-			"teacher": {
-				"consultations": "",
-				"email": "",
-				"imageName": null,
-				"name": "dr hab. Bohdan Padlyak, prof. UZ",
-				"phone": "",
-				"room": ""
+		{
+			"color": 16123135,
+			"exams": [],
+			"grades": [],
+			"name": "Architektura komputerów II",
+			"lessonDetails": [
+				{
+					"date": null,
+					"day": 3,
+					"hourStart": 795,
+					"hourEnd": 880,
+					"place": "106 A-29",
+					"week": 1,
+					"teacher": {
+						"consultations": "",
+						"email": "",
+						"imageName": null,
+						"name": "dr inż. Grzegorz Łabiak",
+						"phone": "",
+						"room": ""
+					}
+				}
+			],
+			"lessonType": {
+				"name": "Architektura komputerów II"
 			},
-			"week": 2
-		}],
-		"lessonType": {
-			"name": "Fizyka"
+			"unprepared": []
 		},
-		"name": "Fizyka",
-		"unprepared": []
-	}, {
-		"color": -3722,
-		"exams": [],
-		"grades": [],
-		"lessonDetails": [{
-			"date": null,
-			"day": 3,
-			"hourEnd": 1005,
-			"hourStart": 915,
-			"place": "115 A-2",
-			"teacher": {
-				"consultations": "",
-				"email": "",
-				"imageName": null,
-				"name": "prof. dr hab. Roman Gielerak",
-				"phone": "",
-				"room": ""
+		{
+			"color": 11129343,
+			"exams": [],
+			"grades": [],
+			"name": "Fizyka",
+			"lessonDetails": [
+				{
+					"date": null,
+					"day": 3,
+					"hourStart": 795,
+					"hourEnd": 890,
+					"place": "106 A-29",
+					"week": 2,
+					"teacher": {
+						"consultations": "",
+						"email": "",
+						"imageName": null,
+						"name": "dr hab. Bohdan Padlyak, prof. UZ",
+						"phone": "",
+						"room": ""
+					}
+				}
+			],
+			"lessonType": {
+				"name": "Fizyka"
 			},
-			"week": 0
-		}],
-		"lessonType": {
-			"name": "Podstawy systemów dyskretnych"
+			"unprepared": []
 		},
-		"name": "Podstawy systemów dyskretnych",
-		"unprepared": []
-	}, {
-		"color": -8708190,
-		"exams": [],
-		"grades": [],
-		"lessonDetails": [{
-			"date": null,
-			"day": 4,
-			"hourEnd": 645,
-			"hourStart": 555,
-			"place": "111 A-2",
-			"teacher": {
-				"consultations": "",
-				"email": "",
-				"imageName": null,
-				"name": "dr Stefan Jerzyniak",
-				"phone": "",
-				"room": ""
+		{
+			"color": 11628543,
+			"exams": [],
+			"grades": [],
+			"name": "Podstawy systemów dyskretnych",
+			"lessonDetails": [
+				{
+					"date": null,
+					"day": 3,
+					"hourStart": 915,
+					"hourEnd": 1005,
+					"place": "115 A-2",
+					"week": 0,
+					"teacher": {
+						"consultations": "",
+						"email": "",
+						"imageName": null,
+						"name": "prof. dr hab. Roman Gielerak",
+						"phone": "",
+						"room": ""
+					}
+				}
+			],
+			"lessonType": {
+				"name": "Podstawy systemów dyskretnych"
 			},
-			"week": 0
-		}],
-		"lessonType": {
-			"name": "Fizyka"
+			"unprepared": []
 		},
-		"name": "Fizyka",
-		"unprepared": []
-	}, {
-		"color": -16537100,
-		"exams": [],
-		"grades": [],
-		"lessonDetails": [{
-			"date": null,
-			"day": 4,
-			"hourEnd": 885,
-			"hourStart": 795,
-			"place": "115 A-2",
-			"teacher": {
-				"consultations": "",
-				"email": "",
-				"imageName": null,
-				"name": "prof. dr hab. inż. Dariusz Uciński",
-				"phone": "",
-				"room": ""
+		{
+			"color": 11129343,
+			"exams": [],
+			"grades": [],
+			"name": "Fizyka",
+			"lessonDetails": [
+				{
+					"date": null,
+					"day": 4,
+					"hourStart": 555,
+					"hourEnd": 645,
+					"place": "111 A-2",
+					"week": 0,
+					"teacher": {
+						"consultations": "",
+						"email": "",
+						"imageName": null,
+						"name": "dr Stefan Jerzyniak",
+						"phone": "",
+						"room": ""
+					}
+				}
+			],
+			"lessonType": {
+				"name": "Fizyka"
 			},
-			"week": 0
-		}],
-		"lessonType": {
-			"name": "Metody probabilistyczne"
+			"unprepared": []
 		},
-		"name": "Metody probabilistyczne",
-		"unprepared": []
-	}, {
-		"color": -8978685,
-		"exams": [],
-		"grades": [],
-		"lessonDetails": [{
-			"date": null,
-			"day": 4,
-			"hourEnd": 990,
-			"hourStart": 900,
-			"place": "409 A-2",
-			"teacher": {
-				"consultations": "",
-				"email": "",
-				"imageName": null,
-				"name": "dr inż. Łukasz Hładowski",
-				"phone": "",
-				"room": ""
+		{
+			"color": 10028287,
+			"exams": [],
+			"grades": [],
+			"name": "Metody probabilistyczne",
+			"lessonDetails": [
+				{
+					"date": null,
+					"day": 4,
+					"hourStart": 795,
+					"hourEnd": 885,
+					"place": "115 A-2",
+					"week": 0,
+					"teacher": {
+						"consultations": "",
+						"email": "",
+						"imageName": null,
+						"name": "prof. dr hab. inż. Dariusz Uciński",
+						"phone": "",
+						"room": ""
+					}
+				}
+			],
+			"lessonType": {
+				"name": "Metody probabilistyczne"
 			},
-			"week": 0
-		}],
-		"lessonType": {
-			"name": "Programowanie obiektowe"
+			"unprepared": []
 		},
-		"name": "Programowanie obiektowe",
-		"unprepared": []
-	}, {
-		"color": -6381922,
-		"exams": [],
-		"grades": [],
-		"lessonDetails": [{
-			"date": null,
-			"day": 4,
-			"hourEnd": 1085,
-			"hourStart": 995,
-			"place": "224 A-2",
-			"teacher": {
-				"consultations": "",
-				"email": "",
-				"imageName": null,
-				"name": "dr inż. Łukasz Hładowski",
-				"phone": "",
-				"room": ""
+		{
+			"color": 9555199,
+			"exams": [],
+			"grades": [],
+			"name": "Programowanie obiektowe",
+			"lessonDetails": [
+				{
+					"date": null,
+					"day": 4,
+					"hourStart": 900,
+					"hourEnd": 990,
+					"place": "409 A-2",
+					"week": 0,
+					"teacher": {
+						"consultations": "",
+						"email": "",
+						"imageName": null,
+						"name": "dr inż. Łukasz Hładowski",
+						"phone": "",
+						"room": ""
+					}
+				}
+			],
+			"lessonType": {
+				"name": "Programowanie obiektowe"
 			},
-			"week": 0
-		}],
-		"lessonType": {
-			"name": "Układy cyfrowe"
+			"unprepared": []
 		},
-		"name": "Układy cyfrowe",
-		"unprepared": []
-	}, {
-		"color": -24576,
-		"exams": [],
-		"grades": [],
-		"lessonDetails": [{
-			"date": null,
-			"day": 5,
-			"hourEnd": 645,
-			"hourStart": 555,
-			"place": "115 A-2",
-			"teacher": {
-				"consultations": "",
-				"email": "",
-				"imageName": null,
-				"name": "dr hab. inż. Marcin Mrugalski, prof. UZ",
-				"phone": "",
-				"room": ""
+		{
+			"color": 11812863,
+			"exams": [],
+			"grades": [],
+			"name": "Układy cyfrowe",
+			"lessonDetails": [
+				{
+					"date": null,
+					"day": 4,
+					"hourStart": 900,
+					"hourEnd": 990,
+					"place": "224 A-2",
+					"week": 0,
+					"teacher": {
+						"consultations": "",
+						"email": "",
+						"imageName": null,
+						"name": "dr inż. Remigiusz Wiśniewski",
+						"phone": "",
+						"room": ""
+					}
+				}
+			],
+			"lessonType": {
+				"name": "Układy cyfrowe"
 			},
-			"week": 0
-		}],
-		"lessonType": {
-			"name": "Sieci komputerowe I"
+			"unprepared": []
 		},
-		"name": "Sieci komputerowe I",
-		"unprepared": []
-	}],
-	"name": "Domyślny plan(1)"
+		{
+			"color": 11812863,
+			"exams": [],
+			"grades": [],
+			"name": "Układy cyfrowe",
+			"lessonDetails": [
+				{
+					"date": null,
+					"day": 4,
+					"hourStart": 995,
+					"hourEnd": 1085,
+					"place": "224 A-2",
+					"week": 0,
+					"teacher": {
+						"consultations": "",
+						"email": "",
+						"imageName": null,
+						"name": "dr inż. Remigiusz Wiśniewski",
+						"phone": "",
+						"room": ""
+					}
+				}
+			],
+			"lessonType": {
+				"name": "Układy cyfrowe"
+			},
+			"unprepared": []
+		},
+		{
+			"color": 9555199,
+			"exams": [],
+			"grades": [],
+			"name": "Programowanie obiektowe",
+			"lessonDetails": [
+				{
+					"date": null,
+					"day": 4,
+					"hourStart": 995,
+					"hourEnd": 1085,
+					"place": "409 A-2",
+					"week": 0,
+					"teacher": {
+						"consultations": "",
+						"email": "",
+						"imageName": null,
+						"name": "dr inż. Łukasz Hładowski",
+						"phone": "",
+						"room": ""
+					}
+				}
+			],
+			"lessonType": {
+				"name": "Programowanie obiektowe"
+			},
+			"unprepared": []
+		},
+		{
+			"color": 13081599,
+			"exams": [],
+			"grades": [],
+			"name": "Sieci komputerowe I",
+			"lessonDetails": [
+				{
+					"date": null,
+					"day": 5,
+					"hourStart": 555,
+					"hourEnd": 645,
+					"place": "115 A-2",
+					"week": 0,
+					"teacher": {
+						"consultations": "",
+						"email": "",
+						"imageName": null,
+						"name": "dr hab. inż. Marcin Mrugalski, prof. UZ",
+						"phone": "",
+						"room": ""
+					}
+				}
+			],
+			"lessonType": {
+				"name": "Sieci komputerowe I"
+			},
+			"unprepared": []
+		},
+		{
+			"color": 16170239,
+			"exams": [],
+			"grades": [],
+			"name": "Technika eksperymentu II",
+			"lessonDetails": [
+				{
+					"date": null,
+					"day": 5,
+					"hourStart": 675,
+					"hourEnd": 810,
+					"place": "517 A-2",
+					"week": 0,
+					"teacher": {
+						"consultations": "",
+						"email": "",
+						"imageName": null,
+						"name": "dr inż. Sergiusz Sienkowski",
+						"phone": "",
+						"room": ""
+					}
+				}
+			],
+			"lessonType": {
+				"name": "Technika eksperymentu II"
+			},
+			"unprepared": []
+		}
+	],
+	"name": "Generator"
 }
