@@ -6,6 +6,8 @@ import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
 
+import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
 import com.google.gson.JsonArray;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonNull;
@@ -31,15 +33,19 @@ public class App {
 	public static void main(String[] args) {
 		try {
 
-			Document doc = Jsoup.parse(
-					new URL("http://www.plan.uz.zgora.pl/grupy_plan.php?pId_Obiekt=19525").openStream(), "UTF-8",
-					"http://www.plan.uz.zgora.pl/grupy_plan.php?pId_Obiekt=19525");
+			Document doc = Jsoup.connect("http://www.plan.uz.zgora.pl/grupy_plan.php?pId_Obiekt=19525").get();
+			// System.out.println(doc.charset().toString());
 			Element table = doc.getElementsByTag("table").first();
 
 			root.add("daysOff", new JsonArray());
 			root.add("lessons", new JsonArray());
 
-			table.children().first().children().stream().filter(e -> !e.text().equals("B")).forEach(e -> {
+			table.children()
+				.first()
+				.children()
+				.stream()
+				.filter(e -> !e.child(0).text().equals("B"))
+				.forEach(e -> {
 
 				// System.out.println("Class=> "+e.className());
 				if (e.className().equals("gray")) {
@@ -69,7 +75,7 @@ public class App {
 					int g = (int) Math.abs(Math.floor(Math.random() * 255f));
 					int b = (int) Math.abs(Math.floor(Math.random() * 255f));
 
-					color = 0xff | r << 16 | g << 8 | b;
+					color = 0xff000000 | r << 16 | g << 8 | b;
 					colorMap.put(pe.name, color);
 				}
 
@@ -107,7 +113,11 @@ public class App {
 				root.get("lessons").getAsJsonArray().add(lesson);
 			});
 			root.addProperty("name", "Generator");
-			System.out.println(root.toString());
+
+			// System.out.println(root.toString());
+			Gson gson = new GsonBuilder().setPrettyPrinting().create();
+			String out = gson.toJson(root);
+			System.out.println(out);
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
