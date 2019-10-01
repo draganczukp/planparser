@@ -1,0 +1,526 @@
+{
+  "daysOff": [],
+  "lessons": [
+    {
+      "color": -9993598,
+      "exams": [],
+      "grades": [],
+      "name": "Podstawy programowania na platformę Android",
+      "lessonDetails": [
+        {
+          "day": 1,
+          "hourStart": 450,
+          "hourEnd": 540,
+          "place": "409 A-2",
+          "week": 0,
+          "teacher": {
+            "consultations": "",
+            "email": "",
+            "name": "mgr inż. Kamil Klimkowicz",
+            "phone": "",
+            "room": ""
+          }
+        }
+      ],
+      "lessonType": {
+        "name": "Podstawy programowania na platformę Android"
+      },
+      "unprepared": []
+    },
+    {
+      "color": -12535218,
+      "exams": [],
+      "grades": [],
+      "name": "Systemy wbudowane",
+      "lessonDetails": [
+        {
+          "day": 1,
+          "hourStart": 455,
+          "hourEnd": 540,
+          "place": "503 A-2",
+          "week": 2,
+          "teacher": {
+            "consultations": "",
+            "email": "",
+            "name": "dr inż. Piotr Mróz",
+            "phone": "",
+            "room": ""
+          }
+        }
+      ],
+      "lessonType": {
+        "name": "Systemy wbudowane"
+      },
+      "unprepared": []
+    },
+    {
+      "color": -9993598,
+      "exams": [],
+      "grades": [],
+      "name": "Podstawy programowania na platformę Android",
+      "lessonDetails": [
+        {
+          "day": 1,
+          "hourStart": 555,
+          "hourEnd": 645,
+          "place": "302 A-2",
+          "week": 0,
+          "teacher": {
+            "consultations": "",
+            "email": "",
+            "name": "dr inż. Marek Sawerwain",
+            "phone": "",
+            "room": ""
+          }
+        }
+      ],
+      "lessonType": {
+        "name": "Podstawy programowania na platformę Android"
+      },
+      "unprepared": []
+    },
+    {
+      "color": -12535218,
+      "exams": [],
+      "grades": [],
+      "name": "Systemy wbudowane",
+      "lessonDetails": [
+        {
+          "day": 1,
+          "hourStart": 675,
+          "hourEnd": 765,
+          "place": "221 A-2",
+          "week": 0,
+          "teacher": {
+            "consultations": "",
+            "email": "",
+            "name": "dr inż. Piotr Mróz",
+            "phone": "",
+            "room": ""
+          }
+        }
+      ],
+      "lessonType": {
+        "name": "Systemy wbudowane"
+      },
+      "unprepared": []
+    },
+    {
+      "color": -9993598,
+      "exams": [],
+      "grades": [],
+      "name": "Podstawy programowania na platformę Android",
+      "lessonDetails": [
+        {
+          "day": 1,
+          "hourStart": 795,
+          "hourEnd": 885,
+          "place": "409 A-2",
+          "week": 0,
+          "teacher": {
+            "consultations": "",
+            "email": "",
+            "name": "mgr inż. Kamil Klimkowicz",
+            "phone": "",
+            "room": ""
+          }
+        }
+      ],
+      "lessonType": {
+        "name": "Podstawy programowania na platformę Android"
+      },
+      "unprepared": []
+    },
+    {
+      "color": -1643210,
+      "exams": [],
+      "grades": [],
+      "name": "Język angielski III/Język niemiecki III",
+      "lessonDetails": [
+        {
+          "day": 2,
+          "hourStart": 450,
+          "hourEnd": 900,
+          "place": "127 A-2",
+          "week": 0,
+          "teacher": {
+            "consultations": "",
+            "email": "",
+            "name": "mgr Jolanta Bąk",
+            "phone": "",
+            "room": ""
+          }
+        }
+      ],
+      "lessonType": {
+        "name": "Język angielski III/Język niemiecki III"
+      },
+      "unprepared": []
+    },
+    {
+      "color": -9203864,
+      "exams": [],
+      "grades": [],
+      "name": "Bezpieczeństwo w systemach i sieciach komputerowych",
+      "lessonDetails": [
+        {
+          "day": 3,
+          "hourStart": 450,
+          "hourEnd": 540,
+          "place": "409 A-2",
+          "week": 0,
+          "teacher": {
+            "consultations": "",
+            "email": "",
+            "name": "dr inż. Bartłomiej Sulikowski",
+            "phone": "",
+            "room": ""
+          }
+        }
+      ],
+      "lessonType": {
+        "name": "Bezpieczeństwo w systemach i sieciach komputerowych"
+      },
+      "unprepared": []
+    },
+    {
+      "color": -9203864,
+      "exams": [],
+      "grades": [],
+      "name": "Bezpieczeństwo w systemach i sieciach komputerowych",
+      "lessonDetails": [
+        {
+          "day": 3,
+          "hourStart": 555,
+          "hourEnd": 645,
+          "place": "409 A-2",
+          "week": 0,
+          "teacher": {
+            "consultations": "",
+            "email": "",
+            "name": "dr inż. Bartłomiej Sulikowski",
+            "phone": "",
+            "room": ""
+          }
+        }
+      ],
+      "lessonType": {
+        "name": "Bezpieczeństwo w systemach i sieciach komputerowych"
+      },
+      "unprepared": []
+    },
+    {
+      "color": -5074192,
+      "exams": [],
+      "grades": [],
+      "name": "Programowanie gier 3D",
+      "lessonDetails": [
+        {
+          "day": 3,
+          "hourStart": 555,
+          "hourEnd": 645,
+          "place": "405 A-2",
+          "week": 0,
+          "teacher": {
+            "consultations": "",
+            "email": "",
+            "name": "mgr inż. Marcin Skobel",
+            "phone": "",
+            "room": ""
+          }
+        }
+      ],
+      "lessonType": {
+        "name": "Programowanie gier 3D"
+      },
+      "unprepared": []
+    },
+    {
+      "color": -2638204,
+      "exams": [],
+      "grades": [],
+      "name": "Zaawansowane technologie usług sieciowych",
+      "lessonDetails": [
+        {
+          "day": 3,
+          "hourStart": 675,
+          "hourEnd": 720,
+          "place": "532 A-2",
+          "week": 0,
+          "teacher": {
+            "consultations": "",
+            "email": "",
+            "name": "dr inż. Piotr Powroźnik",
+            "phone": "",
+            "room": ""
+          }
+        }
+      ],
+      "lessonType": {
+        "name": "Zaawansowane technologie usług sieciowych"
+      },
+      "unprepared": []
+    },
+    {
+      "color": -2638204,
+      "exams": [],
+      "grades": [],
+      "name": "Zaawansowane technologie usług sieciowych",
+      "lessonDetails": [
+        {
+          "day": 3,
+          "hourStart": 735,
+          "hourEnd": 780,
+          "place": "532 A-2",
+          "week": 0,
+          "teacher": {
+            "consultations": "",
+            "email": "",
+            "name": "dr inż. Piotr Powroźnik",
+            "phone": "",
+            "room": ""
+          }
+        }
+      ],
+      "lessonType": {
+        "name": "Zaawansowane technologie usług sieciowych"
+      },
+      "unprepared": []
+    },
+    {
+      "color": -5074192,
+      "exams": [],
+      "grades": [],
+      "name": "Programowanie gier 3D",
+      "lessonDetails": [
+        {
+          "day": 3,
+          "hourStart": 790,
+          "hourEnd": 885,
+          "place": "405 A-2",
+          "week": 1,
+          "teacher": {
+            "consultations": "",
+            "email": "",
+            "name": "mgr inż. Marcin Skobel",
+            "phone": "",
+            "room": ""
+          }
+        }
+      ],
+      "lessonType": {
+        "name": "Programowanie gier 3D"
+      },
+      "unprepared": []
+    },
+    {
+      "color": -2638204,
+      "exams": [],
+      "grades": [],
+      "name": "Zaawansowane technologie usług sieciowych",
+      "lessonDetails": [
+        {
+          "day": 4,
+          "hourStart": 675,
+          "hourEnd": 765,
+          "place": "111 A-2",
+          "week": 0,
+          "teacher": {
+            "consultations": "",
+            "email": "",
+            "name": "dr inż. Piotr Powroźnik",
+            "phone": "",
+            "room": ""
+          }
+        }
+      ],
+      "lessonType": {
+        "name": "Zaawansowane technologie usług sieciowych"
+      },
+      "unprepared": []
+    },
+    {
+      "color": -12535218,
+      "exams": [],
+      "grades": [],
+      "name": "Systemy wbudowane",
+      "lessonDetails": [
+        {
+          "day": 4,
+          "hourStart": 795,
+          "hourEnd": 885,
+          "place": "221 A-2",
+          "week": 0,
+          "teacher": {
+            "consultations": "",
+            "email": "",
+            "name": "dr inż. Piotr Powroźnik",
+            "phone": "",
+            "room": ""
+          }
+        }
+      ],
+      "lessonType": {
+        "name": "Systemy wbudowane"
+      },
+      "unprepared": []
+    },
+    {
+      "color": -12535218,
+      "exams": [],
+      "grades": [],
+      "name": "Systemy wbudowane",
+      "lessonDetails": [
+        {
+          "day": 4,
+          "hourStart": 915,
+          "hourEnd": 1000,
+          "place": "H044 A-10",
+          "week": 2,
+          "teacher": {
+            "consultations": "",
+            "email": "",
+            "name": "prof. dr hab. inż. Alexander Barkalov",
+            "phone": "",
+            "room": ""
+          }
+        }
+      ],
+      "lessonType": {
+        "name": "Systemy wbudowane"
+      },
+      "unprepared": []
+    },
+    {
+      "color": -5074192,
+      "exams": [],
+      "grades": [],
+      "name": "Programowanie gier 3D",
+      "lessonDetails": [
+        {
+          "day": 5,
+          "hourStart": 455,
+          "hourEnd": 540,
+          "place": "405 A-2",
+          "week": 2,
+          "teacher": {
+            "consultations": "",
+            "email": "",
+            "name": "dr inż. Marek Sawerwain",
+            "phone": "",
+            "room": ""
+          }
+        }
+      ],
+      "lessonType": {
+        "name": "Programowanie gier 3D"
+      },
+      "unprepared": []
+    },
+    {
+      "color": -9203864,
+      "exams": [],
+      "grades": [],
+      "name": "Bezpieczeństwo w systemach i sieciach komputerowych",
+      "lessonDetails": [
+        {
+          "day": 5,
+          "hourStart": 555,
+          "hourEnd": 645,
+          "place": "111 A-2",
+          "week": 0,
+          "teacher": {
+            "consultations": "",
+            "email": "",
+            "name": "dr inż. Bartłomiej Sulikowski",
+            "phone": "",
+            "room": ""
+          }
+        }
+      ],
+      "lessonType": {
+        "name": "Bezpieczeństwo w systemach i sieciach komputerowych"
+      },
+      "unprepared": []
+    },
+    {
+      "color": -5074192,
+      "exams": [],
+      "grades": [],
+      "name": "Programowanie gier 3D",
+      "lessonDetails": [
+        {
+          "day": 5,
+          "hourStart": 675,
+          "hourEnd": 765,
+          "place": "111 A-2",
+          "week": 0,
+          "teacher": {
+            "consultations": "",
+            "email": "",
+            "name": "dr inż. Marek Sawerwain",
+            "phone": "",
+            "room": ""
+          }
+        }
+      ],
+      "lessonType": {
+        "name": "Programowanie gier 3D"
+      },
+      "unprepared": []
+    },
+    {
+      "color": -5074192,
+      "exams": [],
+      "grades": [],
+      "name": "Programowanie gier 3D",
+      "lessonDetails": [
+        {
+          "day": 5,
+          "hourStart": 795,
+          "hourEnd": 885,
+          "place": "405 A-2",
+          "week": 0,
+          "teacher": {
+            "consultations": "",
+            "email": "",
+            "name": "dr inż. Marek Sawerwain",
+            "phone": "",
+            "room": ""
+          }
+        }
+      ],
+      "lessonType": {
+        "name": "Programowanie gier 3D"
+      },
+      "unprepared": []
+    },
+    {
+      "color": -12535218,
+      "exams": [],
+      "grades": [],
+      "name": "Systemy wbudowane",
+      "lessonDetails": [
+        {
+          "day": 5,
+          "hourStart": 795,
+          "hourEnd": 890,
+          "place": "503 A-2",
+          "week": 1,
+          "teacher": {
+            "consultations": "",
+            "email": "",
+            "name": "dr inż. Piotr Mróz",
+            "phone": "",
+            "room": ""
+          }
+        }
+      ],
+      "lessonType": {
+        "name": "Systemy wbudowane"
+      },
+      "unprepared": []
+    }
+  ],
+  "name": "Generator"
+}
