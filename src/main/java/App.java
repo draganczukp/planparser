@@ -38,7 +38,7 @@ public class App {
 			     .first()
 			     .children()
 			     .stream()
-			     .filter(e -> !(e.child(0).text().equals("B") || e.child(0).text().equals("C"))
+			     .filter(e -> isGroupA(e))
 			     .forEach(App::parseElement);
 
 			root.addProperty("name", "Generator");
@@ -51,6 +51,11 @@ public class App {
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
+	}
+
+	private static boolean isGroupA(Element e){
+		String text = e.child(0).text();
+		return !text.equals("B") && !text.equals("C");
 	}
 
 	private static void parseElement(Element e) {

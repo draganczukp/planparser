@@ -2,7 +2,7 @@
   "daysOff": [],
   "lessons": [
     {
-      "color": -11708471,
+      "color": -1901010,
       "exams": [],
       "grades": [],
       "name": "Systemy wbudowane",
@@ -28,7 +28,7 @@
       "unprepared": []
     },
     {
-      "color": -14925635,
+      "color": -16178121,
       "exams": [],
       "grades": [],
       "name": "Podstawy programowania na platformę Android",
@@ -54,7 +54,7 @@
       "unprepared": []
     },
     {
-      "color": -11708471,
+      "color": -1901010,
       "exams": [],
       "grades": [],
       "name": "Systemy wbudowane",
@@ -80,7 +80,7 @@
       "unprepared": []
     },
     {
-      "color": -14925635,
+      "color": -16178121,
       "exams": [],
       "grades": [],
       "name": "Podstawy programowania na platformę Android",
@@ -106,7 +106,7 @@
       "unprepared": []
     },
     {
-      "color": -3972836,
+      "color": -2955015,
       "exams": [],
       "grades": [],
       "name": "Język angielski III/Język niemiecki III",
@@ -132,15 +132,15 @@
       "unprepared": []
     },
     {
-      "color": -8788601,
+      "color": -1860421,
       "exams": [],
       "grades": [],
       "name": "Bezpieczeństwo w systemach i sieciach komputerowych",
       "lessonDetails": [
         {
           "day": 3,
-          "hourStart": 555,
-          "hourEnd": 645,
+          "hourStart": 575,
+          "hourEnd": 665,
           "place": "409 A-2",
           "week": 0,
           "teacher": {
@@ -158,7 +158,7 @@
       "unprepared": []
     },
     {
-      "color": -9996520,
+      "color": -10334739,
       "exams": [],
       "grades": [],
       "name": "Zaawansowane technologie usług sieciowych",
@@ -184,7 +184,33 @@
       "unprepared": []
     },
     {
-      "color": -9996520,
+      "color": -1860421,
+      "exams": [],
+      "grades": [],
+      "name": "Bezpieczeństwo w systemach i sieciach komputerowych",
+      "lessonDetails": [
+        {
+          "day": 4,
+          "hourStart": 460,
+          "hourEnd": 550,
+          "place": "115 A-2",
+          "week": 0,
+          "teacher": {
+            "consultations": "",
+            "email": "",
+            "name": "dr inż. Bartłomiej Sulikowski",
+            "phone": "",
+            "room": ""
+          }
+        }
+      ],
+      "lessonType": {
+        "name": "Bezpieczeństwo w systemach i sieciach komputerowych"
+      },
+      "unprepared": []
+    },
+    {
+      "color": -10334739,
       "exams": [],
       "grades": [],
       "name": "Zaawansowane technologie usług sieciowych",
@@ -210,7 +236,7 @@
       "unprepared": []
     },
     {
-      "color": -11708471,
+      "color": -1901010,
       "exams": [],
       "grades": [],
       "name": "Systemy wbudowane",
@@ -236,15 +262,15 @@
       "unprepared": []
     },
     {
-      "color": -3424503,
+      "color": -1447582,
       "exams": [],
       "grades": [],
       "name": "Programowanie gier 3D",
       "lessonDetails": [
         {
           "day": 5,
-          "hourStart": 455,
-          "hourEnd": 540,
+          "hourStart": 555,
+          "hourEnd": 645,
           "place": "405 A-2",
           "week": 2,
           "teacher": {
@@ -262,33 +288,7 @@
       "unprepared": []
     },
     {
-      "color": -8788601,
-      "exams": [],
-      "grades": [],
-      "name": "Bezpieczeństwo w systemach i sieciach komputerowych",
-      "lessonDetails": [
-        {
-          "day": 5,
-          "hourStart": 555,
-          "hourEnd": 645,
-          "place": "111 A-2",
-          "week": 0,
-          "teacher": {
-            "consultations": "",
-            "email": "",
-            "name": "dr inż. Bartłomiej Sulikowski",
-            "phone": "",
-            "room": ""
-          }
-        }
-      ],
-      "lessonType": {
-        "name": "Bezpieczeństwo w systemach i sieciach komputerowych"
-      },
-      "unprepared": []
-    },
-    {
-      "color": -3424503,
+      "color": -1447582,
       "exams": [],
       "grades": [],
       "name": "Programowanie gier 3D",
@@ -314,7 +314,7 @@
       "unprepared": []
     },
     {
-      "color": -3424503,
+      "color": -1447582,
       "exams": [],
       "grades": [],
       "name": "Programowanie gier 3D",
