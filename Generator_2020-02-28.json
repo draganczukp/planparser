@@ -1,0 +1,318 @@
+{
+  "daysOff": [],
+  "lessons": [
+    {
+      "color": -15670973,
+      "exams": [],
+      "grades": [],
+      "name": "Język angielski IV/Język niemiecki IV",
+      "lessonDetails": [
+        {
+          "day": 1,
+          "hourStart": 450,
+          "hourEnd": 900,
+          "place": "127 A-2",
+          "week": 0,
+          "teacher": {
+            "consultations": "",
+            "email": "",
+            "name": "mgr Jolanta Bąk",
+            "phone": "",
+            "room": ""
+          }
+        }
+      ],
+      "lessonType": {
+        "name": "Język angielski IV/Język niemiecki IV"
+      },
+      "unprepared": []
+    },
+    {
+      "color": -10026413,
+      "exams": [],
+      "grades": [],
+      "name": "Projekt grupowy",
+      "lessonDetails": [
+        {
+          "day": 2,
+          "hourStart": 555,
+          "hourEnd": 750,
+          "place": "211 A-2",
+          "week": 0,
+          "teacher": {
+            "consultations": "",
+            "email": "",
+            "name": "dr inż. Anna Pławiak-Mowna",
+            "phone": "",
+            "room": ""
+          }
+        }
+      ],
+      "lessonType": {
+        "name": "Projekt grupowy"
+      },
+      "unprepared": []
+    },
+    {
+      "color": -16086122,
+      "exams": [],
+      "grades": [],
+      "name": "Zarządzanie przemysłowym projektem informatycznym",
+      "lessonDetails": [
+        {
+          "day": 3,
+          "hourStart": 455,
+          "hourEnd": 540,
+          "place": "H044 A-10",
+          "week": 0,
+          "teacher": {
+            "consultations": "",
+            "email": "",
+            "name": "dr inż. Małgorzata Mazurkiewicz",
+            "phone": "",
+            "room": ""
+          }
+        }
+      ],
+      "lessonType": {
+        "name": "Zarządzanie przemysłowym projektem informatycznym"
+      },
+      "unprepared": []
+    },
+    {
+      "color": -14622445,
+      "exams": [],
+      "grades": [],
+      "name": "Projektowanie sieci komputerowych",
+      "lessonDetails": [
+        {
+          "day": 3,
+          "hourStart": 555,
+          "hourEnd": 645,
+          "place": "115 A-2",
+          "week": 0,
+          "teacher": {
+            "consultations": "",
+            "email": "",
+            "name": "dr hab. inż. Bartłomiej Sulikowski",
+            "phone": "",
+            "room": ""
+          }
+        }
+      ],
+      "lessonType": {
+        "name": "Projektowanie sieci komputerowych"
+      },
+      "unprepared": []
+    },
+    {
+      "color": -8510213,
+      "exams": [],
+      "grades": [],
+      "name": "Platforma.NET",
+      "lessonDetails": [
+        {
+          "day": 4,
+          "hourStart": 495,
+          "hourEnd": 585,
+          "place": "110/111 A-2",
+          "week": 0,
+          "teacher": {
+            "consultations": "",
+            "email": "",
+            "name": "dr inż. Marek Sawerwain",
+            "phone": "",
+            "room": ""
+          }
+        }
+      ],
+      "lessonType": {
+        "name": "Platforma.NET"
+      },
+      "unprepared": []
+    },
+    {
+      "color": -15006420,
+      "exams": [],
+      "grades": [],
+      "name": "Programowanie urządzeń mobilnych",
+      "lessonDetails": [
+        {
+          "day": 4,
+          "hourStart": 615,
+          "hourEnd": 705,
+          "place": "110/111 A-2",
+          "week": 0,
+          "teacher": {
+            "consultations": "",
+            "email": "",
+            "name": "dr inż. Piotr Powroźnik",
+            "phone": "",
+            "room": ""
+          }
+        }
+      ],
+      "lessonType": {
+        "name": "Programowanie urządzeń mobilnych"
+      },
+      "unprepared": []
+    },
+    {
+      "color": -14622445,
+      "exams": [],
+      "grades": [],
+      "name": "Projektowanie sieci komputerowych",
+      "lessonDetails": [
+        {
+          "day": 4,
+          "hourStart": 725,
+          "hourEnd": 815,
+          "place": "212 A-2",
+          "week": 2,
+          "teacher": {
+            "consultations": "",
+            "email": "",
+            "name": "dr hab. inż. Marcin Mrugalski, prof. UZ",
+            "phone": "",
+            "room": ""
+          }
+        }
+      ],
+      "lessonType": {
+        "name": "Projektowanie sieci komputerowych"
+      },
+      "unprepared": []
+    },
+    {
+      "color": -8510213,
+      "exams": [],
+      "grades": [],
+      "name": "Platforma.NET",
+      "lessonDetails": [
+        {
+          "day": 4,
+          "hourStart": 820,
+          "hourEnd": 905,
+          "place": "405 A-2",
+          "week": 1,
+          "teacher": {
+            "consultations": "",
+            "email": "",
+            "name": "dr inż. Marek Sawerwain",
+            "phone": "",
+            "room": ""
+          }
+        }
+      ],
+      "lessonType": {
+        "name": "Platforma.NET"
+      },
+      "unprepared": []
+    },
+    {
+      "color": -8510213,
+      "exams": [],
+      "grades": [],
+      "name": "Platforma.NET",
+      "lessonDetails": [
+        {
+          "day": 5,
+          "hourStart": 450,
+          "hourEnd": 540,
+          "place": "405 A-2",
+          "week": 0,
+          "teacher": {
+            "consultations": "",
+            "email": "",
+            "name": "dr inż. Marek Sawerwain",
+            "phone": "",
+            "room": ""
+          }
+        }
+      ],
+      "lessonType": {
+        "name": "Platforma.NET"
+      },
+      "unprepared": []
+    },
+    {
+      "color": -15006420,
+      "exams": [],
+      "grades": [],
+      "name": "Programowanie urządzeń mobilnych",
+      "lessonDetails": [
+        {
+          "day": 5,
+          "hourStart": 615,
+          "hourEnd": 660,
+          "place": "507 A-2",
+          "week": 0,
+          "teacher": {
+            "consultations": "",
+            "email": "",
+            "name": "dr inż. Piotr Powroźnik",
+            "phone": "",
+            "room": ""
+          }
+        }
+      ],
+      "lessonType": {
+        "name": "Programowanie urządzeń mobilnych"
+      },
+      "unprepared": []
+    },
+    {
+      "color": -16086122,
+      "exams": [],
+      "grades": [],
+      "name": "Zarządzanie przemysłowym projektem informatycznym",
+      "lessonDetails": [
+        {
+          "day": 5,
+          "hourStart": 675,
+          "hourEnd": 765,
+          "place": "319/320 A-2",
+          "week": 0,
+          "teacher": {
+            "consultations": "",
+            "email": "",
+            "name": "dr inż. Marcel Luzar",
+            "phone": "",
+            "room": ""
+          }
+        }
+      ],
+      "lessonType": {
+        "name": "Zarządzanie przemysłowym projektem informatycznym"
+      },
+      "unprepared": []
+    },
+    {
+      "color": -5613916,
+      "exams": [],
+      "grades": [],
+      "name": "Seminarium dyplomowe I",
+      "lessonDetails": [
+        {
+          "day": 5,
+          "hourStart": 795,
+          "hourEnd": 885,
+          "place": "119 A-2",
+          "week": 0,
+          "teacher": {
+            "consultations": "",
+            "email": "",
+            "name": "prof. dr hab. inż. Krzysztof Gałkowski",
+            "phone": "",
+            "room": ""
+          }
+        }
+      ],
+      "lessonType": {
+        "name": "Seminarium dyplomowe I"
+      },
+      "unprepared": []
+    }
+  ],
+  "name": "Generator"
+}
