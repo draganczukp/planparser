@@ -34,12 +34,7 @@ public class App {
 			root.add("daysOff", new JsonArray());
 			root.add("lessons", new JsonArray());
 
-			table.children()
-			     .first()
-			     .children()
-			     .stream()
-			     .filter(e -> isGroupA(e))
-			     .forEach(App::parseElement);
+			table.children().first().children().stream().filter(e -> isGroupA(e)).forEach(App::parseElement);
 
 			root.addProperty("name", "Generator");
 
@@ -53,7 +48,7 @@ public class App {
 		}
 	}
 
-	private static boolean isGroupA(Element e){
+	private static boolean isGroupA(Element e) {
 		String text = e.child(0).text();
 		return !text.equals("B") && !text.equals("C");
 	}
@@ -73,6 +68,7 @@ public class App {
 		pe.teacher = tds.get(5).child(0).text();
 		pe.loc = tds.get(6).text();
 		pe.term(tds.get(7).text());
+		pe.type(tds.get(4).text());
 
 		int color;
 
@@ -114,7 +110,7 @@ public class App {
 		lesson.add("lessonDetails", new JsonArray());
 		lesson.get("lessonDetails").getAsJsonArray().add(lessonDet);
 		lesson.add("lessonType", new JsonObject());
-		lesson.get("lessonType").getAsJsonObject().addProperty("name", pe.name);
+		lesson.get("lessonType").getAsJsonObject().addProperty("name", pe.type);
 		lesson.add("unprepared", new JsonArray());
 
 		root.get("lessons").getAsJsonArray().add(lesson);
@@ -124,6 +120,7 @@ public class App {
 		int from, to;
 		String name, teacher;
 		String loc;
+		String type;
 		int term;
 
 		void from(String t) {
@@ -158,15 +155,27 @@ public class App {
 			}
 		}
 
+		void type(String s) {
+			switch (s) {
+				case "W":
+					type = "Wykład";
+					break;
+				case "L":
+					type = "Labki";
+					break;
+				case "P":
+					type = "Projekt";
+					break;
+				default:
+					type = s;
+					break;
+			}
+		}
+
 		@Override
 		public String toString() {
-			return String.format("[From->To]=>%d->%d\n[Name]=>%s\n[Teacher]=>%s\n[Loc]=>%s\n[Term]=>%d",
-			                     from,
-			                     to,
-			                     name,
-			                     teacher,
-			                     loc,
-			                     term);
+			return String.format("[From->To]=>%d->%d\n[Name]=>%s\n[Teacher]=>%s\n[Loc]=>%s\n[Term]=>%d", from, to, name,
+					teacher, loc, term);
 		}
 	}
 }

@@ -2,7 +2,7 @@
   "daysOff": [],
   "lessons": [
     {
-      "color": -15670973,
+      "color": -11578639,
       "exams": [],
       "grades": [],
       "name": "Język angielski IV/Język niemiecki IV",
@@ -23,12 +23,12 @@
         }
       ],
       "lessonType": {
-        "name": "Język angielski IV/Język niemiecki IV"
+        "name": "Labki"
       },
       "unprepared": []
     },
     {
-      "color": -10026413,
+      "color": -3268898,
       "exams": [],
       "grades": [],
       "name": "Projekt grupowy",
@@ -49,12 +49,12 @@
         }
       ],
       "lessonType": {
-        "name": "Projekt grupowy"
+        "name": "Projekt"
       },
       "unprepared": []
     },
     {
-      "color": -16086122,
+      "color": -12515642,
       "exams": [],
       "grades": [],
       "name": "Zarządzanie przemysłowym projektem informatycznym",
@@ -75,12 +75,12 @@
         }
       ],
       "lessonType": {
-        "name": "Zarządzanie przemysłowym projektem informatycznym"
+        "name": "Wykład"
       },
       "unprepared": []
     },
     {
-      "color": -14622445,
+      "color": -2120288,
       "exams": [],
       "grades": [],
       "name": "Projektowanie sieci komputerowych",
@@ -101,12 +101,12 @@
         }
       ],
       "lessonType": {
-        "name": "Projektowanie sieci komputerowych"
+        "name": "Wykład"
       },
       "unprepared": []
     },
     {
-      "color": -8510213,
+      "color": -13497757,
       "exams": [],
       "grades": [],
       "name": "Platforma.NET",
@@ -127,12 +127,12 @@
         }
       ],
       "lessonType": {
-        "name": "Platforma.NET"
+        "name": "Wykład"
       },
       "unprepared": []
     },
     {
-      "color": -15006420,
+      "color": -9482444,
       "exams": [],
       "grades": [],
       "name": "Programowanie urządzeń mobilnych",
@@ -153,12 +153,12 @@
         }
       ],
       "lessonType": {
-        "name": "Programowanie urządzeń mobilnych"
+        "name": "Wykład"
       },
       "unprepared": []
     },
     {
-      "color": -14622445,
+      "color": -2120288,
       "exams": [],
       "grades": [],
       "name": "Projektowanie sieci komputerowych",
@@ -179,12 +179,12 @@
         }
       ],
       "lessonType": {
-        "name": "Projektowanie sieci komputerowych"
+        "name": "Projekt"
       },
       "unprepared": []
     },
     {
-      "color": -8510213,
+      "color": -13497757,
       "exams": [],
       "grades": [],
       "name": "Platforma.NET",
@@ -205,12 +205,12 @@
         }
       ],
       "lessonType": {
-        "name": "Platforma.NET"
+        "name": "Projekt"
       },
       "unprepared": []
     },
     {
-      "color": -8510213,
+      "color": -13497757,
       "exams": [],
       "grades": [],
       "name": "Platforma.NET",
@@ -231,12 +231,12 @@
         }
       ],
       "lessonType": {
-        "name": "Platforma.NET"
+        "name": "Labki"
       },
       "unprepared": []
     },
     {
-      "color": -15006420,
+      "color": -9482444,
       "exams": [],
       "grades": [],
       "name": "Programowanie urządzeń mobilnych",
@@ -257,12 +257,12 @@
         }
       ],
       "lessonType": {
-        "name": "Programowanie urządzeń mobilnych"
+        "name": "Projekt"
       },
       "unprepared": []
     },
     {
-      "color": -16086122,
+      "color": -12515642,
       "exams": [],
       "grades": [],
       "name": "Zarządzanie przemysłowym projektem informatycznym",
@@ -283,12 +283,12 @@
         }
       ],
       "lessonType": {
-        "name": "Zarządzanie przemysłowym projektem informatycznym"
+        "name": "Labki"
       },
       "unprepared": []
     },
     {
-      "color": -5613916,
+      "color": -7818156,
       "exams": [],
       "grades": [],
       "name": "Seminarium dyplomowe I",
@@ -309,7 +309,7 @@
         }
       ],
       "lessonType": {
-        "name": "Seminarium dyplomowe I"
+        "name": "Projekt"
       },
       "unprepared": []
     }
